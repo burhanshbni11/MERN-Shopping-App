@@ -13,13 +13,13 @@ Material UI Icons
 
 # 2. Api(Back-End)
 
-Express
-MongoDB Atlas
-JWT
-Stripe
-Dotenv
-Crypto.js
-Nodemon 
+Express.
+MongoDB Atlas.
+JWT.
+Stripe.
+Dotenv.
+Crypto.js.
+Nodemon .
 # 3. Admin Dashboard
 
 React
