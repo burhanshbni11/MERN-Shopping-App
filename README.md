@@ -1,8 +1,29 @@
-﻿# -MERN-Shopping-App
-# MERN-Shopping-App
-# MERN-Shopping-App
-# MERN-Shopping-App
-# https://github.com/burhanshbni11/MERN-Shopping-App.git/deploy-status?branch=dev
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/543e0a0c-b383-4424-863e-9aad6ddbd940/deploy-status)](https://app.netlify.com/sites/shoponlineeen/deploys)
-# https://github.com/burhanshbni11/MERN-Shopping-App.git/deploy-status?branch=dev
+# DEMO-https://modashoop.netlify.app
+# This Project I Used
+# 1. Client(Front-End)
+React
+React Router
+Redux
+Redux-Persist
+React Stripe Checkout
+Axios
+Styled Components
+Material UI Icons
+# 2. Api(Back-End)
+Express
+MongoDB Atlas
+JWT
+Stripe
+Dotenv
+Crypto.js
+Nodemon 
+# 3. Admin Dashboard
+React
+React Router
+Redux
+Redux-Persist
+Firebase
+Axios
+Styled Components
+Recharts
+Timeago.js
